@@ -23,7 +23,7 @@ apply plugin: 'com.android.library'
 
 android {
     namespace 'com.rezins.datecs_printer'
-    compileSdkVersion 33
+    compileSdkVersion 34
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
